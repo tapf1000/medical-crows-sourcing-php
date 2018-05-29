@@ -1,0 +1,23 @@
+ul#header_item_wrap{
+	background-color:darkblue;
+}			
+li.header_item_wrap{
+	display: inline;
+	font-size: 220%;
+	padding: 0.5%;
+	
+}
+img.logo{
+	width: 11%;
+	height: 11%;
+	border-radius: 50%;
+	padding-top: 0.5%;
+}
+a.header_item{
+	text-decoration: none;
+	color: red;
+}
+a :hover {
+	font-size: 280%;
+	color: blue;
+}
